@@ -1,9 +1,7 @@
 class Addition {
     public static void main(String[] args) {
-        fddghtfgjyfdfzdsfdsvdvv
-        fhfthtfhtfh
-        jyghjyfjyfj
-
+        int a = 4;
+        int b = 4;
         
     }
 }
